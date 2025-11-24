@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Workdhop 5": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
